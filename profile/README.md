@@ -1,12 +1,94 @@
-## Hi there 👋
+# DevCraft Club
 
-<!--
+## Привет!
 
-**Here are some ideas to get you started:**
+Добро пожаловать в **DevCraft Club** - проект разработчика, создающего инновационные решения и инструменты для современной веб-разработки!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Что я делаю
+
+Я специализируюсь на создании **open-source инструментов, API и плагинов**, которые делают разработку проще и эффективнее. Мои основные направления:
+
+### PHP Разработка
+
+- **DLE Экосистема**: Плагины и модификации для CMS DataLife Engine
+- **API Обертки**: Неофициальные API для популярных сервисов
+- **Админ-инструменты**: Улучшенные панели администратора и утилиты управления
+
+### Python Разработка
+
+- **Сервисные API**: Обертки для Kinopoisk, StreamTape, TurboBit и других
+- **Инструменты автоматизации**: Генераторы переводов и утилиты обработки данных
+- **Веб-скрапинг**: Интеллектуальные решения для извлечения данных
+
+### Документация и ресурсы
+
+- **Руководства по разработке**: Подробная документация для моих проектов
+- **Примеры кода**: Готовые к использованию реализации и шаблоны
+
+## Избранные проекты
+
+| Проект                                                                         | Описание                                  | Язык   |
+| ------------------------------------------------------------------------------ | ----------------------------------------- | ------ |
+| [dle_api](https://github.com/DevCraftClub/dle_api)                             | Неофициальный API для CMS DataLife Engine | PHP    |
+| [KinopoiskDevPHP](https://github.com/DevCraftClub/KinopoiskDevPHP)             | PHP клиент для kinopoisk.dev              | PHP    |
+| [StreamTape](https://github.com/DevCraftClub/StreamTape)                       | Неофициальная обертка API для StreamTape  | Python |
+| [NotKinoPoiskAPI](https://github.com/DevCraftClub/NotKinoPoiskAPI)             | Неофициальная библиотека API Kinopoisk    | Python |
+| [translation_generator](https://github.com/DevCraftClub/translation_generator) | Генератор фраз для перевода в Crowdin     | Python |
+
+## Технологический стек
+
+- **Backend**: PHP 8.3+, Python 3.x
+- **Базы данных**: MySQL, SQLite
+- **CMS**: DataLife Engine (DLE)
+- **API**: RESTful сервисы, неофициальные API обертки
+- **Инструменты**: Composer, pip, различные утилиты разработки
+
+## Как внести свой вклад
+
+Я приветствую вклад от сообщества! Вот как вы можете присоединиться:
+
+1. **Форкните** любой репозиторий, который вас заинтересует
+2. **Создайте** ветку для новой функции (`git checkout -b feature/amazing-feature`)
+3. **Зафиксируйте** изменения (`git commit -m 'Add amazing feature'`)
+4. **Отправьте** в ветку (`git push origin feature/amazing-feature`)
+5. **Откройте** Pull Request
+
+### Рекомендации по участию
+
+- Следуйте существующему стилю кода и соглашениям
+- Добавляйте тесты для новых функций, когда это возможно
+- Обновляйте документацию при изменении API
+- Используйте осмысленные сообщения коммитов
+- Уважайте условия лицензии каждого проекта
+
+## Полезные ресурсы
+
+- **Документация**: Проверьте README отдельных репозиториев для подробных руководств
+- **Issues**: Сообщайте об ошибках или запрашивайте функции через GitHub Issues
+- **Wiki**: Если не указано иного, то вся документация находится по адресу [ReadMe Devcraft](https://readme.devcraft.club)
+
+## Лицензирование
+
+Мои проекты используют различные open-source лицензии:
+
+- **GNU General Public License v3.0** - Большинство PHP проектов
+- **MIT License** - Python утилиты и документация
+- **Пользовательские лицензии** - Проверьте отдельные репозитории для конкретных условий
+
+## Свяжитесь со мной
+
+- **Официальный сайт**: [devcraft.club](https://devcraft.club)
+- **GitHub**: [@DevCraftClub](https://github.com/DevCraftClub) | [@Gokujo](https://github.com/Gokujo)
+- **Проекты**: Изучите мои [22+ репозитория](https://github.com/orgs/DevCraftClub/repositories)
+- **Вклад в развитие**: Я внес [1000+ вкладов](https://github.com/DevCraftClub) в open source
+
+## Интересные факты
+
+- Я люблю работать с неофициальными API и делать их похожими на официальные!
+- Мне нравится создавать инструменты, которые решают реальные проблемы разработки
+- Я увлечен российским сообществом разработчиков и создаю локализованные решения
+- Кофе и код - мои ежедневные спутники
+
+---
+
+_Создано с любовью при помощи ИИ_
